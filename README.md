@@ -5,7 +5,9 @@
 - 📫 How to reach me  ...
 - 😄 Pronouns: yashasvi..
 - ⚡ Fun fact:  I am a new one here
-- nd I think the only one who is at level 0.😅..
+- nd I think the only one who is at level 0. now lvl 1
+- 
+- 😅..
 
 <!---
 Yashasvi-Indian/Yashasvi-Indian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

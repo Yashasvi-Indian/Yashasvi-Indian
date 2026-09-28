@@ -10,7 +10,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%20there%2C%20I'm%20Yasha%20%F0%9F%91%8B&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Welcome%20to%20my%20corner%20of%20GitHub&descSize=18&descAlignY=58" alt="Header Banner" />
 
 <!-- TYPING SUBTITLE: edit the lines= values, separate lines with semicolons -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Yashasvi-Indian">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Backend+%26+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+MERN;Building+scalable+real-world+apps;Open+to+SDE+internships+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
@@ -37,7 +37,7 @@
         Currently hunting for backend / fintech-focused SDE internships. ✨
       </p>
       <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+        <img src="https://komarev.com/ghpvc/?username=Yashasvi-Indian&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
         <img src="https://img.shields.io/badge/Open%20to-Internships-22c55e?style=flat-square&logo=target&logoColor=white" alt="Open to internships" />
       </p>
     </td>
@@ -75,12 +75,12 @@
 <div align="center">
 
 <!-- Replace YOUR_GITHUB_USERNAME in all three cards. Change theme= to try others: tokyonight, radical, dracula, midnight-purple -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Yashasvi-IndianE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashasvi-Indian&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 <br>
 
-<img width="640" src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img width="640" src="https://streak-stats.demolab.com/?user=Yashasvi-IndianE&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -129,11 +129,11 @@
 <div align="center">
 
 <!-- Replace each YOUR_... value. Delete any badge you don't need. -->
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/YOUR_X_HANDLE"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
-<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="www.linkedin.com/in/yashasvi-saxenacsestudent2024batch"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://x.com/Yashasvi971"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter / X" /></a>
+<a href="https://www.youtube.com/@itz_yasha"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="mailto:yashasvisaxena89@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://vercel.com/yashasvi-indians-projects/porfolio-live"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 
 <br><br>
 

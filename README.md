@@ -24,7 +24,7 @@
     <td align="center" width="280" valign="middle">
       <!-- PROFILE PICTURE: replace YOUR_IMAGE_URL_HERE with a public image URL (no https:// prefix needed inside the url= param).
            The weserv.nl proxy crops it into a circle, since GitHub strips CSS border-radius. -->
-      <img src="https://images.weserv.nl/?url=YOUR_IMAGE_URL_HERE&w=220&h=220&fit=cover&mask=circle&maxage=7d" width="200" alt="Yasha" />
+      <img src="https://in.pinterest.com/pin/1150036454864684038/" />
     </td>
     <td valign="middle" width="560">
       <h2 align="left">👨‍💻 Yasha <!-- YOUR_NAME --></h2>
@@ -105,8 +105,8 @@
 
 | 📁 Project | 🧰 Tech Stack | ✨ Key Feature | 🔗 Repository |
 | :--- | :--- | :--- | :---: |
-| **SkillUPAI** | `Java` `Spring Boot` `OpenAI API` | Spring Boot backend that integrates GPT-3.5 with a rule-based fallback for reliable responses | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_SKILLUPAI_REPO) |
-| **Portfolio Website** | `Next.js` `TypeScript` `Tailwind` `GSAP` `Framer Motion` | Dark-themed, animation-rich personal portfolio | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PORTFOLIO_REPO) |
+| **SkillUPAI** | `Java` `Spring Boot` `OpenAI API` | Spring Boot backend that integrates GPT-3.5 with a rule-based fallback for reliable responses | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/Yashasvi-Indian/SkillUPAI) |
+| **Portfolio Website** | `Next.js` `TypeScript` `Tailwind` `GSAP` `Framer Motion` | Dark-themed, animation-rich personal portfolio | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/Yashasvi-Indian/Porfolio_live) |
 | **Local LLM RAG App** | `Python` `RAG` `Local LLM` | Retrieval-augmented question answering that runs on a local LLM | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_RAG_REPO) |
 | **<!-- PROJECT_NAME -->** | `<!-- TECH -->` | <!-- KEY_FEATURE --> | [![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO) |
 

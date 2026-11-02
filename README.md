@@ -24,7 +24,7 @@
     <td align="center" width="280" valign="middle">
       <!-- PROFILE PICTURE: replace YOUR_IMAGE_URL_HERE with a public image URL (no https:// prefix needed inside the url= param).
            The weserv.nl proxy crops it into a circle, since GitHub strips CSS border-radius. -->
-      <img src="https://in.pinterest.com/pin/1150036454864684038/" />
+      <img src="https://avatars.githubusercontent.com/u/114338679?v=4" />
     </td>
     <td valign="middle" width="560">
       <h2 align="left">👨‍💻 Yasha <!-- YOUR_NAME --></h2>
